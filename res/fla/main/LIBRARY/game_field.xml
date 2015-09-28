@@ -1,0 +1,541 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game_field" itemID="5607170d-000001ff" linkageExportForAS="true" linkageClassName="game_field" lastModified="1443308125" lastUniqueIdentifier="63">
+  <timeline>
+    <DOMTimeline name="game_field">
+      <layers>
+        <DOMLayer name="Слой 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="cell" name="a_8" selected="true" centerPoint3DX="259" centerPoint3DY="136.5">
+                  <matrix>
+                    <Matrix tx="259" ty="136.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="b_8" centerPoint3DX="332" centerPoint3DY="136.5">
+                  <matrix>
+                    <Matrix tx="332" ty="136.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="c_8" centerPoint3DX="404" centerPoint3DY="136.5">
+                  <matrix>
+                    <Matrix tx="404" ty="136.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="d_8" centerPoint3DX="476.5" centerPoint3DY="136.5">
+                  <matrix>
+                    <Matrix tx="476.5" ty="136.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="e_8" centerPoint3DX="548" centerPoint3DY="136.5">
+                  <matrix>
+                    <Matrix tx="548" ty="136.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="f_8" centerPoint3DX="620.5" centerPoint3DY="136.5">
+                  <matrix>
+                    <Matrix tx="620.5" ty="136.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="g_8" centerPoint3DX="692.5" centerPoint3DY="136.5">
+                  <matrix>
+                    <Matrix tx="692.5" ty="136.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="h_8" centerPoint3DX="765.5" centerPoint3DY="136.5">
+                  <matrix>
+                    <Matrix tx="765.5" ty="136.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="a_7" centerPoint3DX="258.7" centerPoint3DY="207.95">
+                  <matrix>
+                    <Matrix tx="258.7" ty="207.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="b_7" centerPoint3DX="331.7" centerPoint3DY="207.95">
+                  <matrix>
+                    <Matrix tx="331.7" ty="207.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="c_7" centerPoint3DX="403.7" centerPoint3DY="207.95">
+                  <matrix>
+                    <Matrix tx="403.7" ty="207.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="d_7" centerPoint3DX="476.2" centerPoint3DY="207.95">
+                  <matrix>
+                    <Matrix tx="476.2" ty="207.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="e_7" centerPoint3DX="547.7" centerPoint3DY="207.95">
+                  <matrix>
+                    <Matrix tx="547.7" ty="207.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="f_7" centerPoint3DX="620.2" centerPoint3DY="207.95">
+                  <matrix>
+                    <Matrix tx="620.2" ty="207.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="g_7" centerPoint3DX="692.2" centerPoint3DY="207.95">
+                  <matrix>
+                    <Matrix tx="692.2" ty="207.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="h_7" centerPoint3DX="765" centerPoint3DY="207.95">
+                  <matrix>
+                    <Matrix tx="765" ty="207.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="a_6" centerPoint3DX="259.2" centerPoint3DY="278">
+                  <matrix>
+                    <Matrix tx="259.2" ty="278"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="b_6" centerPoint3DX="332.2" centerPoint3DY="278">
+                  <matrix>
+                    <Matrix tx="332.2" ty="278"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="c_6" centerPoint3DX="404.2" centerPoint3DY="278">
+                  <matrix>
+                    <Matrix tx="404.2" ty="278"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="d_6" centerPoint3DX="476.7" centerPoint3DY="278">
+                  <matrix>
+                    <Matrix tx="476.7" ty="278"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="e_6" centerPoint3DX="548.2" centerPoint3DY="278">
+                  <matrix>
+                    <Matrix tx="548.2" ty="278"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="f_6" centerPoint3DX="620.7" centerPoint3DY="278">
+                  <matrix>
+                    <Matrix tx="620.7" ty="278"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="g_6" centerPoint3DX="692.7" centerPoint3DY="278">
+                  <matrix>
+                    <Matrix tx="692.7" ty="278"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="h_6" centerPoint3DX="765.7" centerPoint3DY="278">
+                  <matrix>
+                    <Matrix tx="765.7" ty="278"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="a_5" centerPoint3DX="258.85" centerPoint3DY="348.85">
+                  <matrix>
+                    <Matrix tx="258.85" ty="348.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="b_5" centerPoint3DX="331.85" centerPoint3DY="348.85">
+                  <matrix>
+                    <Matrix tx="331.85" ty="348.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="c_5" centerPoint3DX="403.85" centerPoint3DY="348.85">
+                  <matrix>
+                    <Matrix tx="403.85" ty="348.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="d_5" centerPoint3DX="476.35" centerPoint3DY="348.85">
+                  <matrix>
+                    <Matrix tx="476.35" ty="348.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="e_5" centerPoint3DX="547.85" centerPoint3DY="348.85">
+                  <matrix>
+                    <Matrix tx="547.85" ty="348.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="f_5" centerPoint3DX="620.35" centerPoint3DY="348.85">
+                  <matrix>
+                    <Matrix tx="620.35" ty="348.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="g_5" centerPoint3DX="692.35" centerPoint3DY="348.85">
+                  <matrix>
+                    <Matrix tx="692.35" ty="348.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="h_5" centerPoint3DX="765.35" centerPoint3DY="348.85">
+                  <matrix>
+                    <Matrix tx="765.35" ty="348.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="a_4" centerPoint3DX="258.55" centerPoint3DY="420.3">
+                  <matrix>
+                    <Matrix tx="258.55" ty="420.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="b_4" centerPoint3DX="331.55" centerPoint3DY="420.3">
+                  <matrix>
+                    <Matrix tx="331.55" ty="420.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="c_4" centerPoint3DX="403.55" centerPoint3DY="420.3">
+                  <matrix>
+                    <Matrix tx="403.55" ty="420.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="d_4" centerPoint3DX="476.05" centerPoint3DY="420.3">
+                  <matrix>
+                    <Matrix tx="476.05" ty="420.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="e_4" centerPoint3DX="547.55" centerPoint3DY="420.3">
+                  <matrix>
+                    <Matrix tx="547.55" ty="420.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="f_4" centerPoint3DX="620.05" centerPoint3DY="420.3">
+                  <matrix>
+                    <Matrix tx="620.05" ty="420.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="g_4" centerPoint3DX="692.05" centerPoint3DY="420.3">
+                  <matrix>
+                    <Matrix tx="692.05" ty="420.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="h_4" centerPoint3DX="764.85" centerPoint3DY="420.3">
+                  <matrix>
+                    <Matrix tx="764.85" ty="420.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="a_3" centerPoint3DX="259.05" centerPoint3DY="490.35">
+                  <matrix>
+                    <Matrix tx="259.05" ty="490.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="b_3" centerPoint3DX="332.05" centerPoint3DY="490.35">
+                  <matrix>
+                    <Matrix tx="332.05" ty="490.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="c_3" centerPoint3DX="404.05" centerPoint3DY="490.35">
+                  <matrix>
+                    <Matrix tx="404.05" ty="490.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="d_3" centerPoint3DX="476.55" centerPoint3DY="490.35">
+                  <matrix>
+                    <Matrix tx="476.55" ty="490.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="e_3" centerPoint3DX="548.05" centerPoint3DY="490.35">
+                  <matrix>
+                    <Matrix tx="548.05" ty="490.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="f_3" centerPoint3DX="620.55" centerPoint3DY="490.35">
+                  <matrix>
+                    <Matrix tx="620.55" ty="490.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="g_3" centerPoint3DX="692.55" centerPoint3DY="490.35">
+                  <matrix>
+                    <Matrix tx="692.55" ty="490.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="h_3" centerPoint3DX="765.55" centerPoint3DY="490.35">
+                  <matrix>
+                    <Matrix tx="765.55" ty="490.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="a_2" centerPoint3DX="258.5" centerPoint3DY="561.95">
+                  <matrix>
+                    <Matrix tx="258.5" ty="561.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="b_2" centerPoint3DX="331.5" centerPoint3DY="561.95">
+                  <matrix>
+                    <Matrix tx="331.5" ty="561.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="c_2" centerPoint3DX="403.5" centerPoint3DY="561.95">
+                  <matrix>
+                    <Matrix tx="403.5" ty="561.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="d_2" centerPoint3DX="476" centerPoint3DY="561.95">
+                  <matrix>
+                    <Matrix tx="476" ty="561.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="e_2" centerPoint3DX="547.5" centerPoint3DY="561.95">
+                  <matrix>
+                    <Matrix tx="547.5" ty="561.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="f_2" centerPoint3DX="620" centerPoint3DY="561.95">
+                  <matrix>
+                    <Matrix tx="620" ty="561.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="g_2" centerPoint3DX="692" centerPoint3DY="561.95">
+                  <matrix>
+                    <Matrix tx="692" ty="561.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="h_2" centerPoint3DX="764.8" centerPoint3DY="561.95">
+                  <matrix>
+                    <Matrix tx="764.8" ty="561.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="a_1" centerPoint3DX="259" centerPoint3DY="632">
+                  <matrix>
+                    <Matrix tx="259" ty="632"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="b_1" centerPoint3DX="332" centerPoint3DY="632">
+                  <matrix>
+                    <Matrix tx="332" ty="632"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="c_1" centerPoint3DX="404" centerPoint3DY="632">
+                  <matrix>
+                    <Matrix tx="404" ty="632"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="d_1" centerPoint3DX="476.5" centerPoint3DY="632">
+                  <matrix>
+                    <Matrix tx="476.5" ty="632"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="e_1" centerPoint3DX="548" centerPoint3DY="632">
+                  <matrix>
+                    <Matrix tx="548" ty="632"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="f_1" centerPoint3DX="620.5" centerPoint3DY="632">
+                  <matrix>
+                    <Matrix tx="620.5" ty="632"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="g_1" centerPoint3DX="692.5" centerPoint3DY="632">
+                  <matrix>
+                    <Matrix tx="692.5" ty="632"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cell" name="h_1" centerPoint3DX="765.5" centerPoint3DY="632">
+                  <matrix>
+                    <Matrix tx="765.5" ty="632"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="back" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 1.png">
+                  <matrix>
+                    <Matrix a="0.644851684570313" d="0.632598876953125"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

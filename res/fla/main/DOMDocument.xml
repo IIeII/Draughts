@@ -1,0 +1,43 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1024" height="768" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" viewAngle3D="88.2079048186946" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true">
+     <media>
+          <DOMBitmapItem name="Растровое изображение 1.png" itemID="5606e999-000001d7" sourceExternalFilepath="./LIBRARY/Растровое изображение 1.png" sourceLastImported="1443293593" externalFileCRC32="811928461" externalFileSize="61361" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 1.png" bitmapDataHRef="M 1 1443293300.dat" frameRight="31760" frameBottom="24280"/>
+          <DOMBitmapItem name="Растровое изображение 2.png" itemID="5606f1ae-000001e5" sourceExternalFilepath="./LIBRARY/Растровое изображение 2.png" sourceLastImported="1443295662" originalCompressionType="lossless" quality="50" href="Растровое изображение 2.png" bitmapDataHRef="M 2 1443295575.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Растровое изображение 3" itemID="5606f34c-000001e9" sourceExternalFilepath="./LIBRARY/Растровое изображение 3" sourceLastImported="1443296076" originalCompressionType="lossless" quality="50" href="Растровое изображение 3" bitmapDataHRef="M 3 1443296076.dat" frameRight="12520" frameBottom="12520"/>
+     </media>
+     <symbols>
+          <Include href="cell.xml" loadImmediate="false" itemID="560717cc-00000207" lastModified="1443365142"/>
+          <Include href="cell_hit.xml" itemIcon="0" loadImmediate="false" itemID="56072176-00000222" lastModified="1443307905"/>
+          <Include href="enemy.xml" itemID="5606f803-000001f1" lastModified="1443308486"/>
+          <Include href="enemy_queen.xml" itemID="5606f864-000001f6" lastModified="1443364790"/>
+          <Include href="game_field.xml" itemID="5607170d-000001ff" lastModified="1443308125"/>
+          <Include href="player.xml" itemID="5606eca9-000001d9" lastModified="1443308479"/>
+          <Include href="player_queen.xml" itemID="5606f033-000001e1" lastModified="1443308484"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Монтажный кадр 1">
+               <layers>
+                    <DOMLayer name="Слой 2" color="#9933CC">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="62892" publishTime="1443310098"/>
+          <PublishItem publishSize="62892" publishTime="1443308568"/>
+          <PublishItem publishSize="62888" publishTime="1443308468"/>
+          <PublishItem publishSize="62690" publishTime="1443308406"/>
+     </publishHistory>
+</DOMDocument>
