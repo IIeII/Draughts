@@ -1,6 +1,7 @@
 package {
 	public class CellPlaceHolderTypes {
 
+		public static const INACTIVE:int = -1;
 		public static const EMPTY:int = 0;
 		public static const PLAYER:int = 1;
 		public static const PLAYER_QUEEN:int = 2;

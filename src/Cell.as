@@ -15,6 +15,8 @@ package {
         private var player_queen_mc:MovieClip;
         private var enemy_queen_mc:MovieClip;
 
+        private var isCellDisabled:Boolean;
+
         private var gameFieldState:GameFieldStateAnalyzer;
 
         public function Cell(x:String, y:String, cellMC:MovieClip, gameFieldState:GameFieldStateAnalyzer) {
@@ -49,6 +51,9 @@ package {
             var cellPlaceHolder:int = gameFieldState.getPlaceHolderType(x, y);
 
             switch (cellPlaceHolder){
+                case CellPlaceHolderTypes.INACTIVE:
+                    disableCell();
+                    break;
                 case CellPlaceHolderTypes.EMPTY:
                     clearPlaceHolder();
                     break;
@@ -65,6 +70,12 @@ package {
                     setPlaceHolder(enemy_queen_mc);
                     break;
             }
+        }
+
+        private function disableCell():void {
+
+            gameFieldState.removeEventListener(GameFieldStateAnalyzer.EVENT_UPDATE, update);
+            cell_mc.visible = false;
         }
 
         private function setPlaceHolder(place_holder_mc:MovieClip):void {
