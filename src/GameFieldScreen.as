@@ -2,12 +2,12 @@ package {
     import flash.display.MovieClip;
     import flash.display.Sprite;
 
-    public class GameField extends Sprite{
+    public class GameFieldScreen extends Sprite{
 
         private var gameFieldMC:MovieClip;
         private var gameFieldState:GameFieldStateAnalyzer;
 
-        public function GameField() {
+        public function GameFieldScreen() {
 
             initMainMC();
             initCells();

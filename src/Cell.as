@@ -2,7 +2,6 @@ package {
     import flash.display.MovieClip;
     import flash.events.Event;
     import flash.events.MouseEvent;
-    import flash.events.TouchEvent;
 
     public class Cell {
 

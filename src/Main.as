@@ -25,7 +25,7 @@ package {
 
         private function startApp():void {
 
-            addChild(new GameField());
+            addChild(new GameFieldScreen());
         }
     }
 }

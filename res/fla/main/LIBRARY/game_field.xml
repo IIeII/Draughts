@@ -1,12 +1,12 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game_field" itemID="5607170d-000001ff" linkageExportForAS="true" linkageClassName="game_field" lastModified="1443308125" lastUniqueIdentifier="63">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game_field" itemID="5607170d-000001ff" linkageExportForAS="true" linkageClassName="game_field" lastModified="1443549324" lastUniqueIdentifier="63">
   <timeline>
     <DOMTimeline name="game_field">
       <layers>
-        <DOMLayer name="Слой 2" color="#9933CC" current="true" isSelected="true">
+        <DOMLayer name="Слой 2" color="#9933CC" locked="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="cell" name="a_8" selected="true" centerPoint3DX="259" centerPoint3DY="136.5">
+                <DOMSymbolInstance libraryItemName="cell" name="a_8" centerPoint3DX="259" centerPoint3DY="136.5">
                   <matrix>
                     <Matrix tx="259" ty="136.5"/>
                   </matrix>
@@ -296,7 +296,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="cell" name="e_4" centerPoint3DX="547.55" centerPoint3DY="420.3">
                   <matrix>
-                    <Matrix tx="547.55" ty="420.3"/>
+                    <Matrix a="0" b="1" c="-1" d="0" tx="547.55" ty="420.3"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -522,13 +522,13 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="back" color="#4FFF4F" locked="true" autoNamed="false">
+        <DOMLayer name="back" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="Растровое изображение 1.png">
+                <DOMBitmapInstance selected="true" libraryItemName="Растровое изображение 1.png">
                   <matrix>
-                    <Matrix a="0.644851684570313" d="0.632598876953125"/>
+                    <Matrix a="0.644851684570313" d="-0.632598876953125" ty="768"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
