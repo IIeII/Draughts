@@ -9,7 +9,7 @@
           <Include href="cell_hit.xml" itemIcon="0" loadImmediate="false" itemID="56072176-00000222" lastModified="1443307905"/>
           <Include href="enemy.xml" itemID="5606f803-000001f1" lastModified="1443308486"/>
           <Include href="enemy_queen.xml" itemID="5606f864-000001f6" lastModified="1443364790"/>
-          <Include href="game_field.xml" itemID="5607170d-000001ff" lastModified="1443549324"/>
+          <Include href="game_field.xml" itemID="5607170d-000001ff" lastModified="1443707801"/>
           <Include href="player.xml" itemID="5606eca9-000001d9" lastModified="1443308479"/>
           <Include href="player_queen.xml" itemID="5606f033-000001e1" lastModified="1443308484"/>
      </symbols>

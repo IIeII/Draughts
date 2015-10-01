@@ -50,7 +50,7 @@
           <frames>
             <DOMFrame index="0" duration="4" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="cell_hit" name="hit" selected="true" symbolType="button">
+                <DOMSymbolInstance libraryItemName="cell_hit" name="hit" symbolType="button">
                   <matrix>
                     <Matrix ty="-0.5"/>
                   </matrix>
@@ -80,7 +80,7 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge strokeStyle="1" edges="!600 -600|600 600!600 600|-600 600!-600 600|-600 -600!-600 -600|600 -600"/>
+                    <Edge strokeStyle="1" edges="!600 600|-600 600!-600 600|-600 -600!-600 -600|600 -600!600 -600|600 600"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -116,7 +116,7 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge strokeStyle="1" edges="!600 -600|600 600!600 600|-600 600!-600 600|-600 -600!-600 -600|600 -600"/>
+                    <Edge strokeStyle="1" edges="!600 600|-600 600!-600 600|-600 -600!-600 -600|600 -600!600 -600|600 600"/>
                   </edges>
                 </DOMShape>
               </elements>

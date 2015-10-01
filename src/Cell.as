@@ -1,5 +1,6 @@
 package {
     import flash.display.MovieClip;
+    import flash.display.Sprite;
     import flash.events.Event;
     import flash.events.MouseEvent;
 
@@ -14,9 +15,9 @@ package {
         private var player_queen_mc:MovieClip;
         private var enemy_queen_mc:MovieClip;
 
-        private var isCellDisabled:Boolean;
-
         private var gameFieldState:GameFieldStateAnalyzer;
+
+        private var layerForChip:Sprite;
 
         public function Cell(x:String, y:String, cellMC:MovieClip, gameFieldState:GameFieldStateAnalyzer) {
 
@@ -33,6 +34,7 @@ package {
             cell_mc.addEventListener(MouseEvent.CLICK, onClick);
 
             initArt();
+            update();
         }
 
         private function onClick(event:Event):void {
@@ -80,22 +82,13 @@ package {
         private function setPlaceHolder(place_holder_mc:MovieClip):void {
 
             clearPlaceHolder();
-            cell_mc.addChild(place_holder_mc);
+            layerForChip.addChild(place_holder_mc);
         }
 
         private function clearPlaceHolder():void {
 
-            if (cell_mc.getChildIndex(player_mc) != -1){
-                cell_mc.removeChild(player_mc);
-            }
-            if (cell_mc.getChildIndex(player_queen_mc) != -1){
-                cell_mc.removeChild(player_queen_mc);
-            }
-            if (cell_mc.getChildIndex(enemy_mc) != -1){
-                cell_mc.removeChild(enemy_mc);
-            }
-            if (cell_mc.getChildIndex(enemy_queen_mc) != -1){
-                cell_mc.removeChild(enemy_queen_mc);
+            while(layerForChip.numChildren > 0) {
+                layerForChip.removeChildAt(0);
             }
         }
 
@@ -121,10 +114,24 @@ package {
 
         private function initArt():void {
 
-            player_mc = Warehouse.getInstance().getClassByName("player_simple") as MovieClip;
-            player_queen_mc = Warehouse.getInstance().getClassByName("player_queen") as MovieClip;
-            enemy_mc = Warehouse.getInstance().getClassByName("enemy_simple") as MovieClip;
-            enemy_queen_mc = Warehouse.getInstance().getClassByName("enemy_queen") as MovieClip;
+            layerForChip = new Sprite();
+            layerForChip.mouseChildren = false;
+            layerForChip.mouseEnabled = false;
+            cell_mc.addChild(layerForChip);
+
+            player_mc = initSimpleChip("player_simple");
+            player_queen_mc = initSimpleChip("player_queen");
+            enemy_mc = initSimpleChip("enemy_simple");
+            enemy_queen_mc = initSimpleChip("enemy_queen");
+        }
+
+        private function initSimpleChip(name:String):MovieClip {
+
+            var result:MovieClip = Warehouse.getInstance().getClassByName(name) as MovieClip;
+            result.mouseChildren = false;
+            result.mouseEnabled = false;
+
+            return result;
         }
 
         private function markCellAsEmpty():void {

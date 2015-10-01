@@ -9,13 +9,13 @@ package {
 
         public function GameFieldScreen() {
 
+            gameFieldState = new GameFieldStateAnalyzer();
             initMainMC();
             initCells();
         }
 
         private function initMainMC():void {
             gameFieldMC = Warehouse.getInstance().getClassByName("game_field") as MovieClip;
-            gameFieldState = new GameFieldStateAnalyzer();
             this.addChild(gameFieldMC);
         }
 
